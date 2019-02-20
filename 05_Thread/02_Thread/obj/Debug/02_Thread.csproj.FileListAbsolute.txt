@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\02_Thread\bin\Debug\02_Thread.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\02_Thread\bin\Debug\02_Thread.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\02_Thread\bin\Debug\02_Thread.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\02_Thread\obj\Debug\02_Thread.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\02_Thread\obj\Debug\02_Thread.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\02_Thread\obj\Debug\02_Thread.pdb

@@ -1,0 +1,8 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\bin\Debug\01_SerializarXML.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\bin\Debug\01_SerializarXML.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\bin\Debug\01_SerializarXML.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\bin\Debug\00_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\bin\Debug\00_Biblioteca.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\obj\Debug\01_SerializarXML.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\obj\Debug\01_SerializarXML.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\01_SerializarXML\obj\Debug\01_SerializarXML.pdb

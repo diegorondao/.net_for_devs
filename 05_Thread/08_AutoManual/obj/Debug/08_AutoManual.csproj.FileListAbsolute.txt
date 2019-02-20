@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\08_AutoManual\bin\Debug\08_AutoManual.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\08_AutoManual\obj\Debug\08_AutoManual.pdb

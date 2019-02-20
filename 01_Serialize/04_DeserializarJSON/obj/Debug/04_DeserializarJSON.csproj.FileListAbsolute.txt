@@ -1,0 +1,7 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\04_DeserializarJSON\bin\Debug\04_DeserializarJSON.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\04_DeserializarJSON\bin\Debug\04_DeserializarJSON.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\04_DeserializarJSON\bin\Debug\04_DeserializarJSON.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\04_DeserializarJSON\bin\Debug\00_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\04_DeserializarJSON\bin\Debug\00_Biblioteca.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\04_DeserializarJSON\obj\Debug\04_DeserializarJSON.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\04_DeserializarJSON\obj\Debug\04_DeserializarJSON.pdb

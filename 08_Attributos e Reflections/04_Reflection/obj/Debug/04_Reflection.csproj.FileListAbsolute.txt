@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\04_Reflection\bin\Debug\04_Reflection.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\04_Reflection\bin\Debug\04_Reflection.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\04_Reflection\bin\Debug\04_Reflection.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\04_Reflection\obj\Debug\04_Reflection.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\04_Reflection\obj\Debug\04_Reflection.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\04_Reflection\obj\Debug\04_Reflection.pdb

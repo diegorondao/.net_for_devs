@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\03_ValidacaoCustomizada\bin\Debug\03_ValidacaoCustomizada.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\03_ValidacaoCustomizada\bin\Debug\03_ValidacaoCustomizada.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\03_ValidacaoCustomizada\bin\Debug\03_ValidacaoCustomizada.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\03_ValidacaoCustomizada\obj\Debug\03_ValidacaoCustomizada.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\03_ValidacaoCustomizada\obj\Debug\03_ValidacaoCustomizada.pdb

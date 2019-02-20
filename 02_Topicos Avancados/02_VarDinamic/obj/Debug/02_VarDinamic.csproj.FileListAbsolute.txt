@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\02_VarDinamic\bin\Debug\02_VarDinamic.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\02_VarDinamic\bin\Debug\02_VarDinamic.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\02_VarDinamic\bin\Debug\02_VarDinamic.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\02_VarDinamic\obj\Debug\02_VarDinamic.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\02_VarDinamic\obj\Debug\02_VarDinamic.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\02_VarDinamic\obj\Debug\02_VarDinamic.pdb

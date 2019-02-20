@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\02_LINQ\bin\Debug\02_LINQ.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\02_LINQ\bin\Debug\02_LINQ.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\02_LINQ\bin\Debug\02_LINQ.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\02_LINQ\obj\Debug\02_LINQ.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\02_LINQ\obj\Debug\02_LINQ.pdb

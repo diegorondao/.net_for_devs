@@ -1,0 +1,9 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\bin\Debug\01_Task.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\bin\Debug\01_Task.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\bin\Debug\01_Task.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\obj\Debug\01_Task.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\obj\Debug\_01_Task.Form1.resources
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\obj\Debug\_01_Task.Properties.Resources.resources
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\obj\Debug\01_Task.csproj.GenerateResource.Cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\obj\Debug\01_Task.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\01_Task\obj\Debug\01_Task.pdb

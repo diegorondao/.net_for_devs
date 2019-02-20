@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\05_ThreadSafe\bin\Debug\05_ThreadSafe.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\05_ThreadSafe\obj\Debug\05_ThreadSafe.pdb

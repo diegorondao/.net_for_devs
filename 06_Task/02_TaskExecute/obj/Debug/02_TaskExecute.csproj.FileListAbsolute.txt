@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\02_TaskExecute\bin\Debug\02_TaskExecute.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\02_TaskExecute\bin\Debug\02_TaskExecute.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\02_TaskExecute\bin\Debug\02_TaskExecute.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\02_TaskExecute\obj\Debug\02_TaskExecute.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\02_TaskExecute\obj\Debug\02_TaskExecute.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\02_TaskExecute\obj\Debug\02_TaskExecute.pdb

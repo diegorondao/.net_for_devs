@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\06_ThreadId\bin\Debug\06_ThreadId.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\06_ThreadId\bin\Debug\06_ThreadId.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\06_ThreadId\bin\Debug\06_ThreadId.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\06_ThreadId\obj\Debug\06_ThreadId.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\05 - Seção\01_Thread\01_Thread\06_ThreadId\obj\Debug\06_ThreadId.pdb

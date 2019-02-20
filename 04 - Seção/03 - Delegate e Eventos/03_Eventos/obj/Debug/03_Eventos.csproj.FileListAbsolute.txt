@@ -1,0 +1,12 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\bin\Debug\03_Eventos.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\bin\Debug\03_Eventos.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\bin\Debug\03_Eventos.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\03_Eventos.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\_03_Eventos.Properties.Resources.resources
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\03_Eventos.csproj.GenerateResource.Cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\03_Eventos.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\03_Eventos.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\_03_Eventos.Form1.resources
+C:\_diegorondao\www\_.net_for_devs\04 - Seção\03 - Delegate e Eventos\03_Eventos\bin\Debug\03_Eventos.exe.config
+C:\_diegorondao\www\_.net_for_devs\04 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\03_Eventos.exe
+C:\_diegorondao\www\_.net_for_devs\04 - Seção\03 - Delegate e Eventos\03_Eventos\obj\Debug\03_Eventos.pdb

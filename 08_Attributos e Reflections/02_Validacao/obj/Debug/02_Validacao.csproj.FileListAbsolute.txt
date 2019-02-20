@@ -1,0 +1,11 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\bin\Debug\02_Validacao.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\bin\Debug\02_Validacao.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\bin\Debug\02_Validacao.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\bin\Debug\pt\02_Validacao.resources.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\obj\Debug\02_Validacao.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\obj\Debug\_02_Validacao.Idiomas.Linguagem.resources
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\obj\Debug\_02_Validacao.Idiomas.Linguagem.pt.resources
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\obj\Debug\02_Validacao.csproj.GenerateResource.Cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\obj\Debug\pt\02_Validacao.resources.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\obj\Debug\02_Validacao.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\08 - Seção\01_Solucao\02_Validacao\obj\Debug\02_Validacao.pdb

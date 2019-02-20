@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\04_LINQ_JOIN\bin\Debug\04_LINQ_JOIN.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\04_LINQ_JOIN\obj\Debug\04_LINQ_JOIN.pdb

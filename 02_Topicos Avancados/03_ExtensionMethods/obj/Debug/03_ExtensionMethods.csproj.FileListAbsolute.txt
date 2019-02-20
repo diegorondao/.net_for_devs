@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\02 - Seção\02 - Topicos Avancados\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.pdb

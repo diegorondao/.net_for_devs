@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\05_LINQ_GROUP\bin\Debug\05_LINQ_GROUP.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\05_LINQ_GROUP\bin\Debug\05_LINQ_GROUP.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\05_LINQ_GROUP\bin\Debug\05_LINQ_GROUP.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\05_LINQ_GROUP\obj\Debug\05_LINQ_GROUP.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\05_LINQ_GROUP\obj\Debug\05_LINQ_GROUP.pdb

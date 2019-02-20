@@ -1,0 +1,5 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\00_Biblioteca\bin\Debug\00_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\00_Biblioteca\bin\Debug\00_Biblioteca.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\00_Biblioteca\obj\Debug\00_Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\00_Biblioteca\obj\Debug\00_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\00_Biblioteca\obj\Debug\00_Biblioteca.pdb

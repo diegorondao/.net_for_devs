@@ -1,0 +1,7 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\02_DeserializarXML\bin\Debug\02_DeserializarXML.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\02_DeserializarXML\bin\Debug\02_DeserializarXML.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\02_DeserializarXML\bin\Debug\02_DeserializarXML.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\02_DeserializarXML\bin\Debug\00_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\02_DeserializarXML\bin\Debug\00_Biblioteca.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\02_DeserializarXML\obj\Debug\02_DeserializarXML.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\02_DeserializarXML\obj\Debug\02_DeserializarXML.pdb

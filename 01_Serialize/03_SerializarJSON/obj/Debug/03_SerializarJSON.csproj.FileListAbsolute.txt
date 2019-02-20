@@ -1,0 +1,8 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\bin\Debug\03_SerializarJSON.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\bin\Debug\00_Biblioteca.dll
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\bin\Debug\00_Biblioteca.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\obj\Debug\03_SerializarJSON.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\obj\Debug\03_SerializarJSON.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\01 - Seção\01_SerializeXML\03_SerializarJSON\obj\Debug\03_SerializarJSON.pdb

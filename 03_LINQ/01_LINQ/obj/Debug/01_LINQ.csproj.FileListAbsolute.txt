@@ -1,0 +1,6 @@
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\01_LINQ\bin\Debug\01_LINQ.exe.config
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\01_LINQ\bin\Debug\01_LINQ.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\01_LINQ\bin\Debug\01_LINQ.pdb
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\01_LINQ\obj\Debug\01_LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\01_LINQ\obj\Debug\01_LINQ.exe
+C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\04 - Seção\01_LINQ\01_LINQ\obj\Debug\01_LINQ.pdb
