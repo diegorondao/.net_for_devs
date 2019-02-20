@@ -1,5 +1,5 @@
 ## Guia de estudo
-* Estudos sobre .NET 
+* Estudos sobre C# e .Net
 ## Sobre
 
 * Projeto criado com intuito acadêmico.
