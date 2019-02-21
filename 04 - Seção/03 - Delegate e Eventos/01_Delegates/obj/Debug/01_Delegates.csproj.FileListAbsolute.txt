@@ -1,6 +1,0 @@
-C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\01_Delegates\bin\Debug\01_Delegates.exe.config
-C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\01_Delegates\bin\Debug\01_Delegates.exe
-C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\01_Delegates\bin\Debug\01_Delegates.pdb
-C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\01_Delegates\obj\Debug\01_Delegates.csprojResolveAssemblyReference.cache
-C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\01_Delegates\obj\Debug\01_Delegates.exe
-C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\03 - Seção\03 - Delegate e Eventos\01_Delegates\obj\Debug\01_Delegates.pdb
