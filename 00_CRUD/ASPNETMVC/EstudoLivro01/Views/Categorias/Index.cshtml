@@ -1,0 +1,69 @@
+﻿@model IEnumerable<EstudoLivro01.Models.Categoria>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Listagem de CATEGORIAS";
+}
+
+@if (@TempData["Message"] != null)
+{
+    <div class="alert alert-warning alert-dismissable fade in">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+        <strong>Warning!</strong> @TempData["Message"]
+    </div>
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        Relação de CATEGORIAS registradas
+    </div>
+    <div class="panel-body">
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nome)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nome)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.CategoriaId }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.CategoriaId }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.CategoriaId })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="panel-footer panel-info">
+        @Html.ActionLink("Registrar uma nova CATEGORIA","Create", null, new { @class ="btn btn-success" })
+    </div>
+</div>
+@section styles{
+    <link href="@Url.Content("~/content/DataTables/css/dataTables.bootstrap.css")" rel="stylesheet">
+}
+
+@section ScriptPage {
+    <script src="@Url.Content("~/scripts/DataTables/jquery.dataTables.js")"></script>
+    <script src="@Url.Content("~/scripts/DataTables/dataTables.bootstrap.js")"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('li').removeClass("active");
+            $('#liCategoria').addClass("active");
+
+            $('.table').dataTable({
+                "order": [[1, "asc"]]
+            });
+        });
+    </script>
+}
+
