@@ -3,3 +3,6 @@ C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\03_Ta
 C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\03_TaskMult\bin\Debug\03_TaskMult.pdb
 C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\03_TaskMult\obj\Debug\03_TaskMult.exe
 C:\Users\Elias\Desktop\CodigoFonte\Curso C# Avançado\06 - Seção\01_Task\03_TaskMult\obj\Debug\03_TaskMult.pdb
+C:\_diegorondao\www\_.net_for_devs\06_Task\03_TaskMult\bin\Debug\03_TaskMult.exe.config
+C:\_diegorondao\www\_.net_for_devs\06_Task\03_TaskMult\obj\Debug\03_TaskMult.exe
+C:\_diegorondao\www\_.net_for_devs\06_Task\03_TaskMult\obj\Debug\03_TaskMult.pdb
