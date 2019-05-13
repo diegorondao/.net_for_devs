@@ -1,7 +1,6 @@
 # DDD
 
-Projeto criado como estudo durante acompanhamento do vídeo *ASP.NET MVC 5 + DDD + EF + AutoMapper + IoC + Dicas e Truques* do professor 
-
+Projeto criado como estudo durante acompanhamento do mini curso ASP.NET MVC 5 + DDD + EF + AutoMapper + IoC 
  		 
 ## Conteúdo e Referências
  
