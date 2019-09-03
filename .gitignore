@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/12_ASPNET_CORE/Projeto01/.vs/Projeto01/v16/Server/sqlite3
