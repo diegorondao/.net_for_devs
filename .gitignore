@@ -3,3 +3,8 @@
 ################################################################################
 
 /12_ASPNET_CORE/Projeto01/.vs/Projeto01/v16/Server/sqlite3
+bin
+obj
+.vscode
+.vs
+.DS_Store
