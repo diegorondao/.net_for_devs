@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using ProAgil.WebApi.Data;
 using ProAgil.WebApi.Model;
 
@@ -18,18 +20,35 @@ namespace ProAgil.WebApi.Controllers
         {
             _dbContext = dbContext;
         }
+
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<Evento>> Get()
+        public async Task<IActionResult> Get()
         {
-            return _dbContext.Eventos.ToList();
+            try
+            {
+                var results = await _dbContext.Eventos.ToListAsync();
+                return Ok(results);
+            }
+            catch (System.Exception)
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError,"ERROR DATABASE");
+            }
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<Evento> Get(int id)
+        public async Task<IActionResult> Get(int id)
         {
-           return _dbContext.Eventos.FirstOrDefault(x => x.EventoId == id);
+            try
+            {
+                var results = await _dbContext.Eventos.FirstOrDefaultAsync(x => x.EventoId == id);
+                return Ok(results);
+            }
+            catch (System.Exception) 
+            {
+                return this.StatusCode(StatusCodes.Status500InternalServerError,"ERROR DATABASE");
+            }
         }
 
         // POST api/values
